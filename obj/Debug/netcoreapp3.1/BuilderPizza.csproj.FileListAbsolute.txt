@@ -1,0 +1,13 @@
+/home/dluna/Documentos/cursoC#/BuilderPizza/obj/Debug/netcoreapp3.1/BuilderPizza.csprojAssemblyReference.cache
+/home/dluna/Documentos/cursoC#/BuilderPizza/obj/Debug/netcoreapp3.1/BuilderPizza.AssemblyInfoInputs.cache
+/home/dluna/Documentos/cursoC#/BuilderPizza/obj/Debug/netcoreapp3.1/BuilderPizza.AssemblyInfo.cs
+/home/dluna/Documentos/cursoC#/BuilderPizza/obj/Debug/netcoreapp3.1/BuilderPizza.csproj.CoreCompileInputs.cache
+/home/dluna/Documentos/cursoC#/BuilderPizza/bin/Debug/netcoreapp3.1/BuilderPizza
+/home/dluna/Documentos/cursoC#/BuilderPizza/bin/Debug/netcoreapp3.1/BuilderPizza.deps.json
+/home/dluna/Documentos/cursoC#/BuilderPizza/bin/Debug/netcoreapp3.1/BuilderPizza.runtimeconfig.json
+/home/dluna/Documentos/cursoC#/BuilderPizza/bin/Debug/netcoreapp3.1/BuilderPizza.runtimeconfig.dev.json
+/home/dluna/Documentos/cursoC#/BuilderPizza/bin/Debug/netcoreapp3.1/BuilderPizza.dll
+/home/dluna/Documentos/cursoC#/BuilderPizza/bin/Debug/netcoreapp3.1/BuilderPizza.pdb
+/home/dluna/Documentos/cursoC#/BuilderPizza/obj/Debug/netcoreapp3.1/BuilderPizza.dll
+/home/dluna/Documentos/cursoC#/BuilderPizza/obj/Debug/netcoreapp3.1/BuilderPizza.pdb
+/home/dluna/Documentos/cursoC#/BuilderPizza/obj/Debug/netcoreapp3.1/BuilderPizza.genruntimeconfig.cache
